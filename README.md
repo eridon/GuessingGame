@@ -5,7 +5,7 @@ A simple number guessing game written in Java. The program generates a random nu
 ## How to Play
 
 1. Clone the repository to your local machine.
-2. Compile and run the `Main.java` file.
+2. Compile and run the `GuessingGame.java` file.
 3. Enter your guess when prompted.
 4. The program will provide feedback on whether your guess is too low or too high.
 5. Keep guessing until you correctly guess the number.
